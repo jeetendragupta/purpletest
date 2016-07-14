@@ -2,6 +2,7 @@ this is test index file please ignore...
 <?php
 
 $a =10;
+$b =10;
 
 ?>
 
