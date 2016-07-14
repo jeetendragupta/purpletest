@@ -1,29 +1,16 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# IGNORE FILES
+/includes/configure.php
+/manager/index.php
+/manager/landing.php
+/.gitignore
+/README.md
 
-# Precompiled Headers
-*.gch
-*.pch
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
-# Fortran module files
-*.mod
-*.smod
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# IGNORE FOLDERS
+/store_*/
+/demo_*/
+/customercenter/
+
